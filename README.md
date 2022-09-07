@@ -4,7 +4,7 @@ This script explicitly disables Windows Defender in Windows 10. This can occasio
 
 Before you download, make sure you understand this. Use Menu Start.bat to enable and disable Windows Defender automatically. If you do it manually, please use NSudoLG.exe to run either Disable Defender.bat or Enable Defender.bat as administrator, or right-click on the file and select Run as Administrator.
 
-**Warnings⚠**
+                                                          **Warnings⚠**
 
 ◉ You must disable tamper protection before running this script!
 
