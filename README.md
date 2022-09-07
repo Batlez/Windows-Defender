@@ -6,13 +6,13 @@ Before you download, make sure you understand this. Use Menu Start.bat to enable
 
 #                            ⚠️ Warnings
 
-◉ You must disable tamper protection before running this script!
+○ You must disable tamper protection before running this script!
 
-◉ You will not be able to enable Defender on systems that have Defender stripped/removed; you can only revert Defender's disabling with this script.
+○ You will not be able to enable Defender on systems that have Defender stripped/removed; you can only revert Defender's disabling with this script.
 
-◉ Disabling Windows Defender will expose your computer to malicious software; I will not be held liable for any damage caused by this action.
+○ Disabling Windows Defender will expose your computer to malicious software; I will not be held liable for any damage caused by this action.
 
-◉ Even though I use this script personally and have not encountered any problems, there may be issues with Windows Update and other services.
+○ Even though I use this script personally and have not encountered any problems, there may be issues with Windows Update and other services.
 
 
 
